@@ -1,4 +1,4 @@
-# WhatWeather
+# WhatWeather App
 
 ### WhatWeather is a react js app which shows the current weather details of a city of any country in the world.
 
