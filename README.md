@@ -2,7 +2,7 @@
 
 ### WhatWeather is a react js app which shows the current weather details of a city of any country in the world.
 
-# Check the LIVE app : 
+# Check the LIVE app : https://whatweatheramlan.netlify.app/
 
 
 ### OpenWeather API is being used in this app to fetch the data abput the weather of any city . 
